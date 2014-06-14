@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: X6Chips.PcbDoc   2014-6-14  19:27:18
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : X6Chips-RoundHoles.TXT
+ASCII SlotHoles File : X6Chips-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          5                0.15 Inch (3.80 mm)
+T2        12mil (0.3048mm)         Round          271              47.27 Inch (1200.76 mm)
+T3        14mil (0.3556mm)         Round          15               6.83 Inch (173.40 mm)
+T4        15.75mil (0.40005mm)     Round          198              13.27 Inch (337.04 mm)
+T5        16mil (0.4064mm)         Round          60               15.08 Inch (383.12 mm)
+T6        18mil (0.4572mm)         Round          59               6.73 Inch (170.88 mm)
+T7        23.62mil (0.59995mm)     Slot           2                284.99 Inch (7238.82 mm)
+T8        25.59mil (0.64999mm)     Slot           2                284.93 Inch (7237.24 mm)
+T9        35.43mil (0.89992mm)     Round          2                0.10 Inch (2.54 mm)
+T10       129.92mil (3.29997mm)    Round          6                11.63 Inch (295.40 mm)
+T11       236.22mil (5.99999mm)    Round          4                9.68 Inch (245.82 mm)
+---------------------------------------------------------------------------
+Totals                                            624              680.66 Inch (17288.83 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

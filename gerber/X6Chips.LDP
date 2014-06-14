@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Documents and Settings\Administrator\×ÀÃæ\0520\X6Chips_20140513\X6Chips\X6Chips.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=x6chips-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=x6chips-slotholes.txt|LayerPairs=gtl,gbl

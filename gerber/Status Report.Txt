@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [X6CHips.PrjPCB]
+   Generated File[X6Chips-RoundHoles.TXT]
+   Generated File[X6Chips-SlotHoles.TXT]
+   Generated File[X6Chips.LDP]
+   Generated File[X6Chips.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:27:18 On 2014-6-14
